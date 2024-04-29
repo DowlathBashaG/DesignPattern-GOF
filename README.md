@@ -95,7 +95,8 @@ State can be considered as an extension of Strategy as both patterns are based o
    hence the result may vary. 
    
     
-   
+
+
    Builder Design Pattern
    
    It is creational design pattern , to create complex objects step by step basis.
