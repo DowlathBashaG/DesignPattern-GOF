@@ -74,8 +74,6 @@ paymentService.processOrder();
 <img width="1724" alt="Strategey-Design-Pattern" src="https://github.com/DowlathBashaG/DesignPattern-GOF/assets/9671419/8ef147d3-67f3-4d13-bbf3-03a4d139bf6c">
 
 
-===============================================================================================
-
 State Vs Strategy
 =================
 
@@ -92,19 +90,11 @@ State can be considered as an extension of Strategy as both patterns are based o
    
    
 
-2. Doing different things based on the state,        Differnt implementation that accomplish the same thing.
+2. Doing different things based on the state,          Differnt implementation that accomplish the same thing.
  
    hence the result may vary. 
    
-												                             strategies are easily replaceable by clients at runtime.
-   
-
-
-
-
-   
-   ==================================================================================================================
-   
+    
    
    Builder Design Pattern
    
